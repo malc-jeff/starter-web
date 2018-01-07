@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
-2018 malcolmjeff.co.uk
+2018 malcolmjeff.co.uk All rights reserved.
